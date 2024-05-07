@@ -14,3 +14,4 @@ Personally I wouldn't because using unit tests to test messaging is inefficient 
 
 [explore](http://127.0.0.1:5500/explore.html)
 
+[expose](http://127.0.0.1:5500/expose.html)
