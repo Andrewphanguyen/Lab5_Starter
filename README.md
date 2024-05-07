@@ -15,3 +15,5 @@ Personally I wouldn't because using unit tests to test messaging is inefficient 
 
 
 [expose](https://andrewphanguyen.github.io/Lab5_Starter/expose.html)
+
+[explore](https://andrewphanguyen.github.io/Lab5_Starter/explore.html)
